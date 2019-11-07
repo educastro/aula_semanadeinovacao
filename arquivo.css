@@ -1,0 +1,16 @@
+h1 {
+  color: green;
+  text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+.teste_class {
+	color: pink;
+}
+
+#teste_id {
+	color: blue;
+}
